@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julia! <br/><a href="https://github.com/juliaspringwheat">Data Engineer Associate</a>, <a href="https://www.linkedin.com/in/juliaspringwheat/">Data Engineer Associate</a></h1>
+<h1>Hi, I'm Julia! <br/><a href="https://github.com/juliaspringwheat">Data Engineer Associate</a>, <a href="https://www.linkedin.com/in/julia-springwheat-2b67b3340/">Data Engineer Associate</a></h1>
 
 <h2>👨‍💻 Data Engineer Projects:</h2>
 
